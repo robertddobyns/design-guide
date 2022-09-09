@@ -1,0 +1,236 @@
+[
+  {
+    "id": 1,
+    "name": "Date picker explicit or implicit",
+    "link": "https://www.tiktok.com/@designertom/video/7138811911642058027",
+    "answer": "Provide a selectable year"
+  },
+  {
+    "id": 2,
+    "name": "Better alarm: Apple or Google",
+    "link": "https://www.tiktok.com/@designertom/video/7137780537896373550",
+    "answer": "Apple for clean, clear, easy to use choices"
+  },
+  {
+    "id": 3,
+    "name": "Play or Pause when video is playing",
+    "link": "https://www.tiktok.com/@designertom/video/7135137582584991022",
+    "answer": "Pause icon to show user what will happen instead of what is happening"
+  },
+  {
+    "id": 4,
+    "name": "Password show open or slash eye to reveal password",
+    "link": "https://www.tiktok.com/@designertom/video/7134775952386706734",
+    "answer": "Show open eye to show what will happen"
+  },
+  {
+    "id": 5,
+    "name": "Show all information at once or in small bites",
+    "link": "https://www.tiktok.com/@designertom/video/7133266435387936046",
+    "answer": "Secondary content in small bites (progressive disclosure)"
+  },
+  {
+    "id": 6,
+    "name": "Table actions always visible or only on hover",
+    "link": "https://www.tiktok.com/@designertom/video/7128539215687716138",
+    "answer": "Show actions on hover (progressive disclosure)"
+  },
+  {
+    "id": 7,
+    "name": "Should descriptions align with icon or title",
+    "link": "https://www.tiktok.com/@designertom/video/7127813351568084270",
+    "answer": "Title. Improves readability"
+  },
+  {
+    "id": 8,
+    "name": "Social log ins before or after sign up",
+    "link": "https://www.tiktok.com/@designertom/video/7125525687972236586",
+    "answer": "The standard is to put socials first"
+  },
+  {
+    "id": 10,
+    "name": "Accordions open with arrow or plus icon",
+    "link": "https://www.tiktok.com/@designertom/video/7124772417687538990",
+    "answer": "Use an arrow. Plus can signify creation of an item"
+  },
+  {
+    "id": 11,
+    "name": "Menus sections separated by white space or dividers",
+    "link": "https://www.tiktok.com/@designertom/video/7124413827063581998",
+    "answer": "Use line dividers"
+  },
+  {
+    "id": 12,
+    "name": "Hover tooltip appear instantly or after a delay",
+    "link": "https://www.tiktok.com/@designertom/video/7123318434552646958",
+    "answer": "Use a delay of 300-500ms"
+  },
+  {
+    "id": 13,
+    "name": "Primary button the left or the right",
+    "link": "https://www.tiktok.com/@designertom/video/7122909493981105450",
+    "answer": "Put it on the right"
+  },
+  {
+    "id": 14,
+    "name": "Show all options or just a few",
+    "link": "https://www.tiktok.com/@designertom/video/7122566693439704366",
+    "answer": "Hicks Law. Show just a few options"
+  },
+  {
+    "id": 15,
+    "name": "Table rows separated by zebra striping or line dividers",
+    "link": "https://www.tiktok.com/@designertom/video/7122186234251709739",
+    "answer": "Use line dividers"
+  },
+  {
+    "id": 16,
+    "name": "Link tree or landing page",
+    "link": "https://www.tiktok.com/@designertom/video/7120771890486005035",
+    "answer": "Landing page"
+  },
+  {
+    "id": 17,
+    "name": "Spinner or progress bar",
+    "link": "https://www.tiktok.com/@designertom/video/7120000024335109422",
+    "answer": "Spinner < 300ms, Bar for > 300ms"
+  },
+  {
+    "id": 18,
+    "name": "Page headers stick to top or scroll",
+    "link": "https://www.tiktok.com/@designertom/video/7115165360810183979",
+    "answer": "Sticky header"
+  },
+  {
+    "id": 19,
+    "name": "Filter icon look like a funnel or a slider",
+    "link": "https://www.tiktok.com/@designertom/video/7114394548599557418",
+    "answer": "slider"
+  },
+  {
+    "id": 20,
+    "name": "Vertical text be rotated or stacked",
+    "link": "https://www.tiktok.com/@designertom/video/7112936593983376686",
+    "answer": "Rotate the text (Mental rotation of 3D objects)"
+  },
+  {
+    "id": 21,
+    "name": "Forms show errors during or after entering data",
+    "link": "https://www.tiktok.com/@designertom/video/7112141972105858350",
+    "answer": "Show errors after text is entered"
+  },
+  {
+    "id": 22,
+    "name": "Should buttons be the same color as your brand",
+    "link": "https://www.tiktok.com/@designertom/video/7109945678830259499",
+    "answer": "Use separate colors"
+  },
+  {
+    "id": 23,
+    "name": "Table header alignment",
+    "link": "https://www.tiktok.com/@designertom/video/7109210430077422894",
+    "answer": "Left align dimension headers. Right align property headers"
+  },
+  {
+    "id": 24,
+    "name": "Title or sentence case",
+    "link": "https://www.tiktok.com/@designertom/video/7108843364992290094",
+    "answer": "Apple: Title, Google: Sentence. Use sentence for internationalization"
+  },
+  {
+    "id": 25,
+    "name": "Add button appear at the top or bottom of mobile apps",
+    "link": "https://www.tiktok.com/@designertom/video/7104389528965729578",
+    "answer": "Bottom"
+  },
+  {
+    "id": 26,
+    "name": "Item counts next to labels",
+    "link": "https://www.tiktok.com/@designertom/video/7101042599942753579",
+    "answer": "Yes"
+  },
+  {
+    "id": 27,
+    "name": "New rows to top or bottom of a table",
+    "link": "https://www.tiktok.com/@designertom/video/7096579241399029035",
+    "answer": "Top"
+  },
+  {
+    "id": 28,
+    "name": "Search bar on the left or right of a page",
+    "link": "https://www.tiktok.com/@designertom/video/7095800074852257067",
+    "answer": "Left"
+  },
+  {
+    "id": 29,
+    "name": "Icons before or after text labels",
+    "link": "https://www.tiktok.com/@designertom/video/7094724644455845166",
+    "answer": "Before"
+  },
+  {
+    "id": 30,
+    "name": "Profile pics use a circle or a squircle",
+    "link": "https://www.tiktok.com/@designertom/video/7093935926417870126",
+    "answer": "Circle"
+  },
+  {
+    "id": 31,
+    "name": "Price cards show monthly or annual cost",
+    "link": "https://www.tiktok.com/@designertom/video/7093211719190924590",
+    "answer": "Monthly"
+  },
+  {
+    "id": 32,
+    "name": "Scroll or abbreviate tables",
+    "link": "https://www.tiktok.com/@designertom/video/7092094518417165611",
+    "answer": "scroll"
+  },
+  {
+    "id": 33,
+    "name": "Inner or outer labels on form fields",
+    "link": "https://www.tiktok.com/@designertom/video/7091387605018889514",
+    "answer": "Inner"
+  },
+  {
+    "id": 34,
+    "name": "Emojis on your website",
+    "link": "https://www.tiktok.com/@designertom/video/7090609975243902254",
+    "answer": "Sparingly"
+  },
+  {
+    "id": 35,
+    "name": "Menus sections separated by white space or dividers",
+    "link": "https://www.tiktok.com/@designertom/video/7124413827063581998",
+    "answer": "Use line dividers"
+  },
+  {
+    "id": 36,
+    "name": "Content on main page or a modal",
+    "link": "https://www.tiktok.com/@designertom/video/7016808674035338501",
+    "answer": "Main page for primary content. Modals for secondary"
+  },
+  {
+    "id": 37,
+    "name": "Menus sections separated by white space or dividers",
+    "link": "https://www.tiktok.com/@designertom/video/7124413827063581998",
+    "answer": "Use line dividers"
+  },
+  {
+    "id": 38,
+    "name": "Toggles or checkboxes",
+    "link": "https://www.tiktok.com/@designertom/video/7016402980467395845",
+    "answer": "Checkbox for multiple suggestions. Toggle for binary options"
+  },
+  {
+    "id": 39,
+    "name": "Websites stretch across ultrawide monitors",
+    "link": "https://www.tiktok.com/@designertom/video/7003038282607021317",
+    "answer": "No, don't exceed 30% neck movement"
+  },
+  {
+    "id": 40,
+    "name": "Icons be solid or outline",
+    "link": "https://www.tiktok.com/@designertom/video/6990064841880784133",
+    "answer": "solid"
+  }
+]

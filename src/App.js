@@ -1,23 +1,18 @@
-import logo from './logo.svg';
 import './App.css';
+import problemList from './problem.json'
+import {ProblemCard} from "./components/ProblemCard";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div style={{maxWidth: '500px', margin: '0 auto'}}>
+      {problemList.map(item => (
+          <ProblemCard
+            key={item.id}
+            name={item.name}
+            link={item.link}
+            answer={item.answer}
+          />
+      ))}
     </div>
   );
 }
